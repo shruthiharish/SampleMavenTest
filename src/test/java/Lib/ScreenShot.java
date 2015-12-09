@@ -50,7 +50,8 @@ public class ScreenShot {
             ImageIO.write(screenFullImage, format, new File(fileName));
              
             System.out.println("A partial screenshot saved!");
-        } catch (AWTException | IOException ex) {
+        }catch(Exception ex){
+		//catch (AWTException | IOException ex) {
             System.err.println(ex);
         }
 	}

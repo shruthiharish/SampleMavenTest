@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="TestSuite" time="0.239" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="TestSuite" time="0.357" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="C:\Users\Administrator\workspace\BeginMavProject\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1025207321581542151.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Administrator\workspace\BeginMavProject\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5150228887777299462.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_65/bin/server;C:/Program Files/Java/jre1.8.0_65/bin;C:/Program Files/Java/jre1.8.0_65/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_65\bin;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools;C:\Program Files\nodejs\;D:\ANDROID\android-sdk-windows\platform-tools;D:\ANDROID\android-sdk-windows\tools;C:\apache-maven-3.3.9\bin;C:\Program Files\Git\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\Desktop\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="test.TestLogInPage" name="TestAutoLogIn" time="0.239"/>
+  <testcase classname="test.TestLogInPage" name="TestAutoLogIn" time="0.357"/>
 </testsuite>

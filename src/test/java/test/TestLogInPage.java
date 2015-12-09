@@ -6,7 +6,7 @@ import org.testng.xml.dom.Tag;
 
 import com.sun.jna.platform.win32.GL;
 
-import pom.GmailLogInPage;
+import pom.*; 
 
 public class TestLogInPage extends SettNG{
 	

@@ -5,9 +5,7 @@
     <classes>
       <class name="test.TestLogInPage">
         <methods>
-          <include name="createObjs"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
           <include name="TestAutoLogIn"/>
         </methods>
       </class> <!-- test.TestLogInPage -->
