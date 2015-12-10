@@ -14,7 +14,7 @@ GmailLogInPage gLogIn;
 	}
 	
 	@Test
-	public void TestAutoLogIn(){
+	public void AutoLogInTest(){
 		gLogIn.getUserName().sendKeys("shruthijagadiesh07");
 		gLogIn.getNextButton().click();
 	}
