@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="9880" started-at="2015-12-09T11:32:59Z" finished-at="2015-12-09T11:33:08Z">
+  <suite name="Command line suite" duration-ms="10784" started-at="2015-12-10T09:57:28Z" finished-at="2015-12-10T09:57:39Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="9880" started-at="2015-12-09T11:32:59Z" finished-at="2015-12-09T11:33:08Z">
+    <test name="Command line test" duration-ms="10784" started-at="2015-12-10T09:57:28Z" finished-at="2015-12-10T09:57:39Z">
       <class name="test.TestLogInPage">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test.TestLogInPage@3c09711b]" name="setUp" is-config="true" duration-ms="8571" started-at="2015-12-09T17:02:59Z" finished-at="2015-12-09T17:03:07Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.TestLogInPage@3c09711b]" name="setUp" is-config="true" duration-ms="10062" started-at="2015-12-10T15:27:28Z" finished-at="2015-12-10T15:27:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createObjs()[pri:0, instance:test.TestLogInPage@3c09711b]" name="createObjs" is-config="true" duration-ms="8" started-at="2015-12-09T17:03:07Z" finished-at="2015-12-09T17:03:07Z">
+        <test-method status="PASS" signature="createObjs()[pri:0, instance:test.TestLogInPage@3c09711b]" name="createObjs" is-config="true" duration-ms="10" started-at="2015-12-10T15:27:38Z" finished-at="2015-12-10T15:27:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObjs -->
-        <test-method status="PASS" signature="TestAutoLogIn()[pri:0, instance:test.TestLogInPage@3c09711b]" name="TestAutoLogIn" duration-ms="355" started-at="2015-12-09T17:03:07Z" finished-at="2015-12-09T17:03:08Z">
+        <test-method status="PASS" signature="TestAutoLogIn()[pri:0, instance:test.TestLogInPage@3c09711b]" name="TestAutoLogIn" duration-ms="210" started-at="2015-12-10T15:27:38Z" finished-at="2015-12-10T15:27:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestAutoLogIn -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TestLogInPage@3c09711b]" name="tearDown" is-config="true" duration-ms="940" started-at="2015-12-09T17:03:08Z" finished-at="2015-12-09T17:03:08Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TestLogInPage@3c09711b]" name="tearDown" is-config="true" duration-ms="495" started-at="2015-12-10T15:27:39Z" finished-at="2015-12-10T15:27:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
